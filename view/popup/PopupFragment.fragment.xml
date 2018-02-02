@@ -1,0 +1,97 @@
+<core:FragmentDefinition
+  height="100%"
+  xmlns:l="sap.ui.layout"
+  xmlns:f="sap.ui.layout.form"
+  xmlns:core="sap.ui.core"
+  xmlns:u="sap.ui.unified"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m">
+  <Dialog id="dPopup"
+          resizable="true"
+          stretch="false"
+          title="{i18n>dPopup_title}"
+          contentHeight="500px"
+          contentWidth="700px">
+    <f:Form id="idForm01" editable="true">
+      <f:title>
+      </f:title>
+      <f:layout>
+        <f:ResponsiveGridLayout
+          minWidth="340px"
+          labelSpanXL="2"
+          labelSpanL="2"
+          labelSpanM="2"
+          labelSpanS="12"
+          adjustLabelSpan="false"
+          emptySpanXL="0"
+          emptySpanL="0"
+          emptySpanM="0"
+          emptySpanS="0"
+          columnsXL="1"
+          columnsL="1"
+          columnsM="1"
+          singleContainerFullSize="false"/>
+      </f:layout>
+      <f:formContainers>
+        <f:FormContainer>
+          <f:formElements>
+            <f:FormElement label="{i18n>dPopup_input01}">
+              <f:fields>
+                <Input type="Text"
+                       textAlign="End"
+                       textFormatMode="Key"
+                       change="onPAI"
+                       enabled="false"
+                       value="{mainData>/Popup/input01}">
+                  <layoutData>
+                    <l:GridData span="XL2 L2 M3 S12"/>
+                  </layoutData>
+                </Input>
+              </f:fields>
+            </f:FormElement>
+          </f:formElements>
+        </f:FormContainer>
+      </f:formContainers>
+    </f:Form>
+    <Table id="dPopup_Tab01"
+           backgroundDesign="Translucent"
+           showNoData="true"
+           showSeparators="All"
+           inset="true"
+           growing="true"
+           growingThreshold="10"
+           fixedLayout="false"
+           items="{path: 'mainData>/Popup/PopupList'}"
+           class="sapUiNoContentPadding">
+      <headerToolbar>
+      </headerToolbar>
+      <columns>
+        <Column width="8rem" hAlign="Begin">
+          <Text text="{i18n>dPopup_Tab01_field01}"/>
+        </Column>
+        <Column width="8rem" demandPopin="true" hAlign="Begin">
+          <Text text="{i18n>dPopup_Tab01_field02}"/>
+        </Column>
+        <Column minScreenWidth="10rem" demandPopin="true" hAlign="End">
+          <Text text="{i18n>dPopup_Tab01_field03}"/>
+        </Column>
+      </columns>
+      <items>
+        <ColumnListItem>
+          <cells>
+            <ObjectAttribute  text="{mainData>field01}"/>
+            <ObjectAttribute  text="{mainData>field02}"/>
+            <ObjectAttribute  text="{mainData>field03}"/>
+          </cells>
+        </ColumnListItem>
+      </items>
+    </Table>
+    <buttons>
+      <Button text="{i18n>dPopup_btn_ok}" press="onPAI">
+        <customData>
+          <core:CustomData key="fcCode" value="fcPopupDialogOk" writeToDom="false"/>
+        </customData>
+      </Button>
+    </buttons>
+  </Dialog>
+</core:FragmentDefinition>

@@ -1,0 +1,73 @@
+<core:FragmentDefinition
+  xmlns="sap.m"
+  xmlns:l="sap.ui.layout"
+  xmlns:f="sap.ui.layout.form"
+  xmlns:core="sap.ui.core">
+  <NavContainer id="nav01">
+    <pages>
+      <Page id="mainContent"
+            enableScrolling="true"
+            showHeader="false">
+        <headerContent>
+        </headerContent>
+        <content>
+          <Wizard id="wizard01"
+                  enableBranching="false"
+                  complete="onPAI"
+                  finishButtonText="{i18n>wizard01_btn_finish}"
+                  showNextButton="true">
+            <WizardStep id="wizard01_Step01"
+                        title="{i18n>wizard01_Step01}"
+                        nextStep="wizard01_Step02"
+                        complete="onPAI"
+                        validated="{mainView>/wizard01/wizard01_Step01}"
+                        icon="sap-icon://trip-report">
+              <core:Fragment fragmentName="readians.view.fragments.Wizard01_Step01" type="XML"/>
+              <customData>
+                <core:CustomData key="fcCode" value="fcCompleteStep" writeToDom="true"/>
+              </customData>
+            </WizardStep>
+            <WizardStep id="wizard01_Step02"
+                        title="{i18n>wizard01_Step02}"
+                        nextStep="wizard01_Step03"
+                        complete="onPAI"
+                        validated="{mainView>/wizard01/wizard01_Step02}"
+                        icon="sap-icon://trip-report">
+              <core:Fragment fragmentName="readians.view.fragments.Wizard01_Step02" type="XML"/>
+              <customData>
+                <core:CustomData key="fcCode" value="fcCompleteStep" writeToDom="true"/>
+              </customData>
+            </WizardStep>
+            <WizardStep id="wizard01_Step03"
+                        title="{i18n>wizard01_Step03}"
+                        nextStep="wizard01_Step04"
+                        complete="onPAI"
+                        validated="{mainView>/wizard01/wizard01_Step03}"
+                        icon="sap-icon://trip-report">
+              <core:Fragment fragmentName="readians.view.fragments.Wizard01_Step03" type="XML"/>
+              <customData>
+                <core:CustomData key="fcCode" value="fcCompleteStep" writeToDom="true"/>
+              </customData>
+            </WizardStep>
+            <WizardStep id="wizard01_Step04"
+                        title="{i18n>wizard01_Step04}"
+                        complete="onPAI"
+                        validated="{mainView>/wizard01/wizard01_Step04}"
+                        icon="sap-icon://trip-report">
+              <core:Fragment fragmentName="readians.view.fragments.Wizard01_Step04" type="XML"/>
+              <customData>
+                <core:CustomData key="fcCode" value="fcCompleteStep" writeToDom="true"/>
+              </customData>
+            </WizardStep>
+            <customData>
+              <core:CustomData key="fcCode" value="fcComplete" writeToDom="true"/>
+            </customData>
+          </Wizard>
+        </content>
+      </Page>
+    </pages>
+    <customData>
+      <core:CustomData key="fcCode" value="fcMainContent" writeToDom="true"/>
+    </customData>
+  </NavContainer>
+</core:FragmentDefinition>

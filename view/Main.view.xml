@@ -1,0 +1,40 @@
+<mvc:View
+  id="mainView"
+  height="100%"
+  controllerName="readians.controller.Main"
+  xmlns:core="sap.ui.core"
+  xmlns:u="sap.ui.unified"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m">
+  <Page id="pageMain"
+        busy="{mainView>/busy}"
+        enableScrolling="false"
+        floatingFooter="true"
+        showHeader="true"
+        showFooter="true"
+        showNavButton="true"
+        navButtonPress="onPAI">
+    <content>
+      <core:Fragment fragmentName="readians.view.fragments.MainHeader" type="XML"/>
+      <core:Fragment fragmentName="readians.view.fragments.MainContent" type="XML"/>
+    </content>
+    <footer>
+      <Toolbar>
+        <Button text="{i18n>pMain_btn_ok}" type="Accept" press="onPAI">
+          <customData>
+            <core:CustomData key="fcCode" value="fcMainOk" writeToDom="true"/>
+          </customData>
+        </Button>
+        <ToolbarSpacer/>
+        <Button text="{i18n>pMain_btn_popup}" type="Default" press="onPAI">
+          <customData>
+            <core:CustomData key="fcCode" value="fcMainPopup" writeToDom="true"/>
+          </customData>
+        </Button>
+      </Toolbar>
+    </footer>
+    <customData>
+      <core:CustomData key="fcCode" value="fcMainNav" writeToDom="true"/>
+    </customData>
+  </Page>
+</mvc:View>

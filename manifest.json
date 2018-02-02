@@ -1,0 +1,155 @@
+{
+  "_version": "1.1.0",
+  "start_url": "index.html",
+  "sap.app": {
+    "_version": "1.1.0",
+    "id": "readians",
+    "type": "application",
+    "i18n": "i18n/i18n.properties",
+    "title": "{{appTitle}}",
+    "description": "{{appDescription}}",
+    "applicationVersion": {
+      "version": "1.0.0"
+    },
+    "dataSources": {
+      "ZVWGW_FI006": {
+        "uri": "/sap/opu/odata/sap/ZVWGW_FI006_SRV/",
+        "type": "OData",
+        "settings": {
+          "odataVersion": "2.0",
+          "useBatch" : true,
+          "serviceUrlParams": {
+          }
+        }
+      }
+    }
+  },
+  "sap.ui": {
+    "_version": "1.1.0",
+    "technology": "UI5",
+    "icons": {
+      "icon": "sap-icon://detail-view",
+      "favIcon": "",
+      "phone": "",
+      "phone@2": "",
+      "tablet": "",
+      "tablet@2": ""
+    },
+    "deviceTypes": {
+      "desktop": true,
+      "tablet": true,
+      "phone": true
+    },
+    "supportedThemes": [
+      "sap_hcb",
+      "sap_belize"
+    ]
+  },
+  "sap.ui5": {
+    "_version": "1.1.0",
+    "rootView": "readians.view.App",
+    "dependencies": {
+      "minUI5Version": "1.30",
+      "libs": {
+        "sap.m": {
+          "minVersion": "1.38.0"
+        }
+      }
+    },
+    "contentDensities": {
+      "compact": true,
+      "cozy": true
+    },
+    "models": {
+      "i18n": {
+        "type": "sap.ui.model.resource.ResourceModel",
+        "settings": {
+          "bundleName": "readians.i18n.i18n"
+        }
+      },
+      "odataModel": {
+        "dataSource": "ZVWGW_FI006",
+        "settings": {
+        }
+      }
+    },
+    "resources": {
+      "css": [
+        {
+          "uri": "css/style.css"
+        }
+      ],
+      "js": [
+        {
+          "uri": "/js/vendor/lodash.js"
+        },
+        {
+          "uri": "/js/vendor/q.js"
+        },
+        {
+          "uri": "/js/vendor/moment.js"
+        },
+        {
+          "uri": "js/vendor/voca.js"
+        },
+        {
+          "uri": "js/vendor/validate.js"
+        }
+      ]
+    },
+    "routing": {
+      "config": {
+        "routerClass": "sap.m.routing.Router",
+        "viewType": "XML",
+        "viewPath": "readians.view",
+        "controlId": "app",
+        "controlAggregation": "pages",
+        "bypassed": {
+          "target": "notFound"
+        },
+        "async": true
+      },
+      "routes": [
+        {
+          "pattern": "",
+          "name": "main",
+          "target": "main"
+        },
+        {
+          "pattern": "/detail",
+          "name": "detail",
+          "target": "detail"
+        }
+      ],
+      "targets": {
+        "main": {
+          "viewName": "Main",
+          "viewLevel": 1
+        },
+        "detail": {
+          "viewName": "Detail",
+          "viewLevel": 2
+        },
+        "notFound": {
+          "viewName": "NotFound",
+          "viewId": "notFound"
+        }
+      }
+    }
+  },
+  "customizing": {
+    "namespace" : "readians",
+    "odata": {
+
+    },
+    "test" : {
+      "mainHelp" : "",
+      "mainData" : "",
+      "mainView" : "",
+      "detailData" : "",
+      "detailHelp" : "",
+      "detailView" : "",
+      "help": ""
+    }
+  }
+}

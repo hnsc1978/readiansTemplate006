@@ -1,0 +1,48 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/BTA_LISTSet('201101121')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/BTA_LISTSet('201101121')",
+          "type": "ZVWGW_FI006_SRV.BTA_LIST"
+        },
+        "Chkappr": "A",
+        "ChkapprText": "저장",
+        "Bukrs": "1000",
+        "Btanum": "201101121",
+        "Apprno": "APPR01",
+        "EmpId": "1000011",
+        "EmpNm": "홍길동",
+        "Kostl": "1000",
+        "KostlText": "구매부",
+        "Sdate": "20170101",
+        "Tdate": "20171231",
+        "Btdetail": "중국출장",
+        "EmpGradeCd": "7",
+        "EmpGradeCdText": "부장"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/BTA_LISTSet('201101122')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/BTA_LISTSet('201101122')",
+          "type": "ZVWGW_FI006_SRV.BTA_LIST"
+        },
+        "Chkappr": "B",
+        "ChkapprText": "저장",
+        "Bukrs": "1000",
+        "Btanum": "201101122",
+        "Apprno": "APPR02",
+        "EmpId": "1000012",
+        "EmpNm": "홍길동",
+        "Kostl": "1000",
+        "KostlText": "구매부",
+        "Sdate": "20170101",
+        "Tdate": "20171231",
+        "Btdetail": "영국출장",
+        "EmpGradeCd": "7",
+        "EmpGradeCdText": "부장"
+      }
+    ]
+  }
+}

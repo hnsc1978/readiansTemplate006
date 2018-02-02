@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="1.0" xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx"
+           xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+           xmlns:sap="http://www.sap.com/Protocols/SAPData">
+  <edmx:DataServices m:DataServiceVersion="2.0">
+    <Schema Namespace="ZVWGW_FI006_SRV" xml:lang="ko" sap:schema-version="1"
+            xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+      <EntityType Name="ZfihBt01" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Bttype"/>
+        </Key>
+        <Property Name="Bttype" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="BttypeText" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="ZfihBt02" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Land1Grp"/>
+        </Key>
+        <Property Name="Land1Grp" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Land1GrpText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="ZfihBt03" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Land1"/>
+          <PropertyRef Name="Land1Grp"/>
+        </Key>
+        <Property Name="Land1" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Waers" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"
+                  sap:semantics="currency-code"/>
+        <Property Name="Land1Text" Type="Edm.String" Nullable="false" MaxLength="15" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Land1Grp" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Land1GrpText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="ZfihBt04" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Ptype"/>
+        </Key>
+        <Property Name="Ptype" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="PtypeText" Type="Edm.String" Nullable="false" MaxLength="15" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="ZfihBt05" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Rtype"/>
+        </Key>
+        <Property Name="Rtype" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="RtypeText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Ptype" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="PtypeText" Type="Edm.String" Nullable="false" MaxLength="15" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Mwskz" Type="Edm.String" Nullable="false" MaxLength="2" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="MwskzText" Type="Edm.String" Nullable="false" MaxLength="50" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="ZfihBt06" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Etype"/>
+        </Key>
+        <Property Name="Etype" Type="Edm.String" Nullable="false" MaxLength="2" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EtypeText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="ZfihBt07" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="EmpGradeCd"/>
+          <PropertyRef Name="Bttype"/>
+          <PropertyRef Name="Land1Grp"/>
+          <PropertyRef Name="Land1"/>
+        </Key>
+        <Property Name="EmpGradeCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpGradeCdText" Type="Edm.String" Nullable="false" MaxLength="60" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Bttype" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="BttypeText" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Land1Grp" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Land1GrpText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Land1" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Land1Text" Type="Edm.String" Nullable="false" MaxLength="15" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Netpr" Type="Edm.Decimal" Nullable="false" Precision="12" Scale="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Waers" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"
+                  sap:semantics="currency-code"/>
+      </EntityType>
+      <EntityType Name="ZfihBt08" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="EmpGradeCd"/>
+          <PropertyRef Name="Bttype"/>
+          <PropertyRef Name="Land1Grp"/>
+          <PropertyRef Name="Land1"/>
+        </Key>
+        <Property Name="EmpGradeCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpGradeCdText" Type="Edm.String" Nullable="false" MaxLength="60" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Bttype" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="BttypeText" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Land1Grp" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Land1GrpText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Land1" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Land1Text" Type="Edm.String" Nullable="false" MaxLength="15" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Netpr" Type="Edm.Decimal" Nullable="false" Precision="12" Scale="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Waers" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"
+                  sap:semantics="currency-code"/>
+      </EntityType>
+      <EntityType Name="ZfihBt09" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Kosar"/>
+          <PropertyRef Name="Bttype"/>
+          <PropertyRef Name="Hkont"/>
+        </Key>
+        <Property Name="Kosar" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="KosarText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Bttype" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="BttypeText" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Hkont" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="HkontText" Type="Edm.String" Nullable="false" MaxLength="50" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="COMP_CARD_LIST" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Mandt"/>
+          <PropertyRef Name="BankCd"/>
+          <PropertyRef Name="CardNo"/>
+          <PropertyRef Name="ApprKey"/>
+          <PropertyRef Name="InsSeq"/>
+          <PropertyRef Name="ApprDate"/>
+        </Key>
+        <Property Name="Fdate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false" sap:label="8문자"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Mandt" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false" sap:label="클라이언트"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Tdate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false" sap:label="8문자"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Uname" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false" sap:label="사용자 이름"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Lifnr" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false" sap:label="공급업체"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="BankCd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="CardNo" Type="Edm.String" Nullable="false" MaxLength="25" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ApprKey" Type="Edm.String" Nullable="false" MaxLength="25" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="InsSeq" Type="Edm.Decimal" Nullable="false" Precision="5" Scale="0" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ApprDate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="SiteNo" Type="Edm.String" Nullable="false" MaxLength="13" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ApprNo" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ApprTime" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ChainNm" Type="Edm.String" Nullable="false" MaxLength="50" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ChainId" Type="Edm.String" Nullable="false" MaxLength="13" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ChainCd" Type="Edm.String" Nullable="false" MaxLength="50" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ApprAmt" Type="Edm.Decimal" Nullable="false" Precision="15" Scale="2" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ApprTax" Type="Edm.Decimal" Nullable="false" Precision="15" Scale="2" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="WonAmt" Type="Edm.Decimal" Nullable="false" Precision="15" Scale="2" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Halbu" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="CancelYn" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="BuyingDist" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Abroad" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Branchtype" Type="Edm.String" Nullable="false" MaxLength="50" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Currency" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ApprDupSeq" Type="Edm.Decimal" Nullable="false" Precision="3" Scale="0" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="InsUserId" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="InsDatetime" Type="Edm.String" Nullable="false" MaxLength="14" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="BranchAddr1" Type="Edm.String" Nullable="false" MaxLength="80" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="BranchAddr2" Type="Edm.String" Nullable="false" MaxLength="80" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="DeductYn" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ChainType" Type="Edm.String" Nullable="false" MaxLength="2" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="LastDate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="LastTime" Type="Edm.String" Nullable="false" MaxLength="6" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Souja" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Cheorija" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Status" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Gubun" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ItDate" Type="Edm.String" Nullable="false" MaxLength="14" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Budat" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Belnr" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Ppnam" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Ppdat" Type="Edm.String" Nullable="false" MaxLength="14" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="StatusText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="20자" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="Cardtp" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false" sap:label="카드구분"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="CardtpText" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Koinh" Type="Edm.String" Nullable="false" MaxLength="60" sap:unicode="false" sap:label="계정 보유자"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Department" Type="Edm.String" Nullable="false" MaxLength="40" sap:unicode="false" sap:label="부서"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Kostl" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false" sap:label="코스트 센터"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Ktext" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="이름"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Netpr" Type="Edm.Decimal" Nullable="false" Precision="12" Scale="3" sap:unicode="false"
+                  sap:unit="Waers" sap:label="단가" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="ApprDateChar" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:label="8문자" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="NetprKrw" Type="Edm.Decimal" Nullable="false" Precision="12" Scale="3" sap:unicode="false"
+                  sap:unit="WaersKrw" sap:label="단가" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="Cardcp" Type="Edm.String" Nullable="false" MaxLength="2" sap:unicode="false" sap:label="카드회사"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="CardcpText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="20자" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="Payment" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="20자"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="PaymentDate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:label="8문자" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="PaymentText" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Waers" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false" sap:label="통화"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"
+                  sap:semantics="currency-code"/>
+        <Property Name="WaersKrw" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false" sap:label="통화"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"
+                  sap:semantics="currency-code"/>
+        <Property Name="Chkappr" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false" sap:label="승인여부"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="LifnrText" Type="Edm.String" Nullable="false" MaxLength="35" sap:unicode="false" sap:label="이름"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="ZfihBtaHeader" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Bukrs"/>
+          <PropertyRef Name="Btanum"/>
+        </Key>
+        <Property Name="Bukrs" Type="Edm.String" Nullable="false" MaxLength="4" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Btanum" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Apprno" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpId" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpIdText" Type="Edm.String" Nullable="false" MaxLength="35" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Btaseq" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Bttype" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="BttypeText" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Kostl" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="KostlText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpGradeCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpGradeCdText" Type="Edm.String" Nullable="false" MaxLength="60" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Btdetail" Type="Edm.String" Nullable="false" MaxLength="25" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crdat" Type="Edm.DateTime" Nullable="false" Precision="7" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crtim" Type="Edm.Time" Nullable="false" Precision="0" sap:unicode="false" sap:creatable="false"
+                  sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crusr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chdat" Type="Edm.DateTime" Nullable="false" Precision="7" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chtim" Type="Edm.Time" Nullable="false" Precision="0" sap:unicode="false" sap:creatable="false"
+                  sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chusr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="BTA_HEADER" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Bukrs"/>
+          <PropertyRef Name="Btanum"/>
+        </Key>
+        <Property Name="IvButton" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBta01" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Bukrs" Type="Edm.String" Nullable="false" MaxLength="4" sap:unicode="false" sap:label="회사 코드"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Btanum" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:label="출장정산서번호" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="Apprno" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="품의번호"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpId" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false" sap:label="사번"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Btaseq" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Bttype" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false" sap:label="출장종류"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Kostl" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="KostlText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpGradeCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="직급코드" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="Btdetail" Type="Edm.String" Nullable="false" MaxLength="255" sap:unicode="false"
+                  sap:label="출장목적" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="Sdate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Edate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crdat" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crtim" Type="Edm.String" Nullable="false" MaxLength="6" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crusr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chdat" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chtim" Type="Edm.String" Nullable="false" MaxLength="6" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chusr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <NavigationProperty Name="ToRoute" Relationship="ZVWGW_FI006_SRV.HeadToRoute" FromRole="FromRole_HeadToRoute"
+                            ToRole="ToRole_HeadToRoute"/>
+        <NavigationProperty Name="ToItem" Relationship="ZVWGW_FI006_SRV.HeadToItem" FromRole="FromRole_HeadToItem"
+                            ToRole="ToRole_HeadToItem"/>
+        <NavigationProperty Name="ToOthers" Relationship="ZVWGW_FI006_SRV.HeadToOthers" FromRole="FromRole_HeadToOthers"
+                            ToRole="ToRole_HeadToOthers"/>
+      </EntityType>
+      <EntityType Name="BTA_ITEM" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Bukrs"/>
+          <PropertyRef Name="Btanum"/>
+          <PropertyRef Name="Itseq"/>
+        </Key>
+        <Property Name="Bukrs" Type="Edm.String" Nullable="false" MaxLength="4" sap:unicode="false" sap:label="회사 코드"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Btanum" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:label="출장정산서번호" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="GuidBta03" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBta01" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Itseq" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Gjahr" Type="Edm.String" Nullable="false" MaxLength="4" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Belnr" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBt04" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBt05" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBt06" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="BankCd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="CardNo" Type="Edm.String" Nullable="false" MaxLength="25" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ApprKey" Type="Edm.String" Nullable="false" MaxLength="25" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="InsSeq" Type="Edm.Decimal" Nullable="false" Precision="5" Scale="0" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ApprDate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Netpr" Type="Edm.Decimal" Nullable="false" Precision="12" Scale="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Waers" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false" sap:label="통화"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"
+                  sap:semantics="currency-code"/>
+        <Property Name="NetprKrw" Type="Edm.Decimal" Nullable="false" Precision="12" Scale="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="WaersKrw" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"
+                  sap:semantics="currency-code"/>
+        <Property Name="Commt" Type="Edm.String" Nullable="false" MaxLength="100" sap:unicode="false" sap:label="비고"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chkappr" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false" sap:label="승인여부"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crdat" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crtim" Type="Edm.String" Nullable="false" MaxLength="6" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crusr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chdat" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chtim" Type="Edm.String" Nullable="false" MaxLength="6" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chusr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <NavigationProperty Name="ToDiv" Relationship="ZVWGW_FI006_SRV.ItemToDiv" FromRole="FromRole_ItemToDiv"
+                            ToRole="ToRole_ItemToDiv"/>
+      </EntityType>
+      <EntityType Name="BTA_ROUTE" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Bukrs"/>
+          <PropertyRef Name="Btanum"/>
+          <PropertyRef Name="RtSeq"/>
+        </Key>
+        <Property Name="Bukrs" Type="Edm.String" Nullable="false" MaxLength="4" sap:unicode="false" sap:label="회사 코드"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Btanum" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:label="출장정산서번호" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="GuidBta02" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBta01" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="RtSeq" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false" sap:label="순번"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Land1" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false" sap:label="국가"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Sdate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Edate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crdat" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crtim" Type="Edm.String" Nullable="false" MaxLength="6" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crusr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chdat" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chtim" Type="Edm.String" Nullable="false" MaxLength="6" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chusr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="EXCHANGE_RATE_INFO" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Land1"/>
+        </Key>
+        <Property Name="Land1" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false" sap:label="국가"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ExDate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Kursf" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Waers" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false" sap:label="통화"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"
+                  sap:semantics="currency-code"/>
+      </EntityType>
+      <EntityType Name="BTA_ITEM_DIV" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Bukrs"/>
+          <PropertyRef Name="Btanum"/>
+          <PropertyRef Name="Itseq"/>
+          <PropertyRef Name="DivSeq"/>
+        </Key>
+        <Property Name="Bukrs" Type="Edm.String" Nullable="false" MaxLength="4" sap:unicode="false" sap:label="회사 코드"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Btanum" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:label="출장정산서번호" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="Itseq" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="DivSeq" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBta03" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBta01" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBt04" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBt05" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBt06" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpId" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Aufnr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false" sap:label="오더"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Kostl" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false" sap:label="코스트 센터"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="BankCd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="CardNo" Type="Edm.String" Nullable="false" MaxLength="25" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ApprKey" Type="Edm.String" Nullable="false" MaxLength="25" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="InsSeq" Type="Edm.Decimal" Nullable="false" Precision="5" Scale="0" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ApprDate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Netpr" Type="Edm.Decimal" Nullable="false" Precision="12" Scale="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Waers" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false" sap:label="통화"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"
+                  sap:semantics="currency-code"/>
+        <Property Name="NetprKrw" Type="Edm.Decimal" Nullable="false" Precision="12" Scale="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="WaersKrw" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"
+                  sap:semantics="currency-code"/>
+        <Property Name="Commt" Type="Edm.String" Nullable="false" MaxLength="100" sap:unicode="false" sap:label="비고"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chkappr" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false" sap:label="승인여부"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crdat" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crtim" Type="Edm.String" Nullable="false" MaxLength="6" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crusr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chdat" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chtim" Type="Edm.String" Nullable="false" MaxLength="6" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chusr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="BTA_OTHERS" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Bukrs"/>
+          <PropertyRef Name="Btanum"/>
+          <PropertyRef Name="Itseq"/>
+        </Key>
+        <Property Name="Bukrs" Type="Edm.String" Nullable="false" MaxLength="4" sap:unicode="false" sap:label="회사 코드"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Btanum" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:label="출장정산서번호" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="GuidBta03" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBta01" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Itseq" Type="Edm.String" Nullable="false" MaxLength="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Gjahr" Type="Edm.String" Nullable="false" MaxLength="4" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Belnr" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBt04" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBt05" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GuidBt06" Type="Edm.String" Nullable="false" MaxLength="32" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="BankCd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="CardNo" Type="Edm.String" Nullable="false" MaxLength="25" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ApprKey" Type="Edm.String" Nullable="false" MaxLength="25" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="InsSeq" Type="Edm.Decimal" Nullable="false" Precision="5" Scale="0" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="ApprDate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Netpr" Type="Edm.Decimal" Nullable="false" Precision="12" Scale="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Waers" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false" sap:label="통화"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"
+                  sap:semantics="currency-code"/>
+        <Property Name="NetprKrw" Type="Edm.Decimal" Nullable="false" Precision="12" Scale="3" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="WaersKrw" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"
+                  sap:semantics="currency-code"/>
+        <Property Name="Commt" Type="Edm.String" Nullable="false" MaxLength="100" sap:unicode="false" sap:label="비고"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chkappr" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false" sap:label="승인여부"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crdat" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crtim" Type="Edm.String" Nullable="false" MaxLength="6" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crusr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chdat" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chtim" Type="Edm.String" Nullable="false" MaxLength="6" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Chusr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <NavigationProperty Name="ToDiv" Relationship="ZVWGW_FI006_SRV.OthersToDiv" FromRole="FromRole_OthersToDiv"
+                            ToRole="ToRole_OthersToDiv"/>
+      </EntityType>
+      <EntityType Name="BTA_LIST" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Btanum"/>
+        </Key>
+        <Property Name="Chkappr" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false" sap:label="승인여부"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Btanum" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:label="출장정산서번호" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="ChkapprText" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Bukrs" Type="Edm.String" Nullable="false" MaxLength="4" sap:unicode="false" sap:label="회사 코드"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Apprno" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="품의번호"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpId" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false" sap:label="사번"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpNm" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Kostl" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false" sap:label="코스트 센터"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="KostlText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="이름"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Sdate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Edate" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Btdetail" Type="Edm.String" Nullable="false" MaxLength="255" sap:unicode="false"
+                  sap:label="출장목적" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="EmpGradeCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="직급코드" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="EmpGradeCdText" Type="Edm.String" Nullable="false" MaxLength="30" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="HEAD_INFO" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Uname"/>
+        </Key>
+        <Property Name="Uname" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Kosar" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false" sap:label="코스트센터 범주"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="CCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="회사코드"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="CpCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="법인코드"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Kostl" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpId" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="사번"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="KostlText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpNm" Type="Edm.String" Nullable="false" MaxLength="100" sap:unicode="false" sap:label="사원명"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="NameLast" Type="Edm.String" Nullable="false" MaxLength="40" sap:unicode="false" sap:label="성"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="LnsType" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="음양유형"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="NameFirst" Type="Edm.String" Nullable="false" MaxLength="40" sap:unicode="false" sap:label="이름"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="BirthYmd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false" sap:label="생년월일"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="SmtpAddr" Type="Edm.String" Nullable="false" MaxLength="241" sap:unicode="false"
+                  sap:label="전자메일 주소" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="EnterYmd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false" sap:label="입사일"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="GrpYmd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false" sap:label="그룹입사일"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="RetireYmd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false" sap:label="퇴사일"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="AttendStaYmd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:label="근태기산일" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="RetStaYmd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:label="퇴직금기산일" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="LastMoveYmd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:label="최종이동일" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="LastPromYmd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:label="최종승진일" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="SalStepYmd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false"
+                  sap:label="최종승급일" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="GenderType" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="성별유형" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="MailAddr" Type="Edm.String" Nullable="false" MaxLength="50" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="OfficeTelNo" Type="Edm.String" Nullable="false" MaxLength="100" sap:unicode="false"
+                  sap:label="구내전화번호" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="TelNo" Type="Edm.String" Nullable="false" MaxLength="100" sap:unicode="false" sap:label="전화번호"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="MobileNo" Type="Edm.String" Nullable="false" MaxLength="100" sap:unicode="false"
+                  sap:label="이동전화" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="OrgId" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="조직ID"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpType" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="사원유형코드" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="EmpGradeCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="직급코드" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="SalStepCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="호봉코드" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="DutyCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="직책코드"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="PostCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="직위코드"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpTitleCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="호칭코드" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="DupOrgId" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="겸직조직ID" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="DupDutyCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="DispOrgId" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="파견조직ID" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="DispDutyCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="파견직책코드" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="StatCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="PayAreaCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="급여영역코드" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="AttendAreaCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="근태영역코드" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="BizplCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="사업장코드"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="WorkLocCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:label="근무지역코드" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="StaYmd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false" sap:label="시작일"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EndYmd" Type="Edm.String" Nullable="false" MaxLength="8" sap:unicode="false" sap:label="종료일"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Note" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false" sap:label="기타"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="AppntCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="발령코드"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="StatNm" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false" sap:label="재직상태명"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="OrgNm" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false" sap:label="조직명"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpTypeNm" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false"
+                  sap:label="사원유형명" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="EmpGradeNm" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false"
+                  sap:label="직급명" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="DutyNm" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false" sap:label="직책명"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpTitleNm" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false"
+                  sap:label="호칭명" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="PostNm" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false" sap:label="직위명"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="SalTypeNm" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false"
+                  sap:label="연호봉구분명" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="SalStepNm" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false"
+                  sap:label="호봉명" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="PayAreaNm" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false"
+                  sap:label="급여영역명" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="AttendAreaNm" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false"
+                  sap:label="근태영역명" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="BizplNm" Type="Edm.String" Nullable="false" MaxLength="180" sap:unicode="false" sap:label="사업장명"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="WorkLocNm" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false"
+                  sap:label="근무지역명" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                  sap:filterable="false"/>
+        <Property Name="Crdat" Type="Edm.DateTime" Nullable="false" Precision="7" sap:unicode="false" sap:label="일자"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crtim" Type="Edm.Time" Nullable="false" Precision="0" sap:unicode="false" sap:label="시간"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Crusr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false" sap:label="사용자이름"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="INT_ORDER" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Aufnr"/>
+        </Key>
+        <Property Name="Aufnr" Type="Edm.String" Nullable="false" MaxLength="12" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="AufnrText" Type="Edm.String" Nullable="false" MaxLength="40" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="EMPLOYEE" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="EmpId"/>
+        </Key>
+        <Property Name="EmpId" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="사번"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="EmpNm" Type="Edm.String" Nullable="false" MaxLength="100" sap:unicode="false" sap:label="사원명"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="PostCd" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false" sap:label="직위코드"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="PostNm" Type="Edm.String" Nullable="false" MaxLength="200" sap:unicode="false" sap:label="직위명"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Kostl" Type="Edm.String" Nullable="false" MaxLength="10" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="KostlText" Type="Edm.String" Nullable="false" MaxLength="20" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+        <Property Name="Kosar" Type="Edm.String" Nullable="false" MaxLength="1" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <EntityType Name="ZfihWaers" sap:content-version="1">
+        <Key>
+          <PropertyRef Name="Waers"/>
+        </Key>
+        <Property Name="Waers" Type="Edm.String" Nullable="false" MaxLength="5" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"
+                  sap:semantics="currency-code"/>
+        <Property Name="Ktext" Type="Edm.String" Nullable="false" MaxLength="15" sap:unicode="false"
+                  sap:creatable="false" sap:updatable="false" sap:sortable="false" sap:filterable="false"/>
+      </EntityType>
+      <Association Name="HeadToItem" sap:content-version="1">
+        <End Type="ZVWGW_FI006_SRV.BTA_HEADER" Multiplicity="1" Role="FromRole_HeadToItem"/>
+        <End Type="ZVWGW_FI006_SRV.BTA_ITEM" Multiplicity="*" Role="ToRole_HeadToItem"/>
+        <ReferentialConstraint>
+          <Principal Role="FromRole_HeadToItem">
+            <PropertyRef Name="Btanum"/>
+            <PropertyRef Name="Bukrs"/>
+          </Principal>
+          <Dependent Role="ToRole_HeadToItem">
+            <PropertyRef Name="Btanum"/>
+            <PropertyRef Name="Bukrs"/>
+          </Dependent>
+        </ReferentialConstraint>
+      </Association>
+      <Association Name="HeadToOthers" sap:content-version="1">
+        <End Type="ZVWGW_FI006_SRV.BTA_HEADER" Multiplicity="1" Role="FromRole_HeadToOthers"/>
+        <End Type="ZVWGW_FI006_SRV.BTA_OTHERS" Multiplicity="*" Role="ToRole_HeadToOthers"/>
+        <ReferentialConstraint>
+          <Principal Role="FromRole_HeadToOthers">
+            <PropertyRef Name="Btanum"/>
+            <PropertyRef Name="Bukrs"/>
+          </Principal>
+          <Dependent Role="ToRole_HeadToOthers">
+            <PropertyRef Name="Btanum"/>
+            <PropertyRef Name="Bukrs"/>
+          </Dependent>
+        </ReferentialConstraint>
+      </Association>
+      <Association Name="HeadToRoute" sap:content-version="1">
+        <End Type="ZVWGW_FI006_SRV.BTA_HEADER" Multiplicity="1" Role="FromRole_HeadToRoute"/>
+        <End Type="ZVWGW_FI006_SRV.BTA_ROUTE" Multiplicity="*" Role="ToRole_HeadToRoute"/>
+        <ReferentialConstraint>
+          <Principal Role="FromRole_HeadToRoute">
+            <PropertyRef Name="Btanum"/>
+            <PropertyRef Name="Bukrs"/>
+          </Principal>
+          <Dependent Role="ToRole_HeadToRoute">
+            <PropertyRef Name="Btanum"/>
+            <PropertyRef Name="Bukrs"/>
+          </Dependent>
+        </ReferentialConstraint>
+      </Association>
+      <Association Name="OthersToDiv" sap:content-version="1">
+        <End Type="ZVWGW_FI006_SRV.BTA_OTHERS" Multiplicity="1" Role="FromRole_OthersToDiv"/>
+        <End Type="ZVWGW_FI006_SRV.BTA_ITEM_DIV" Multiplicity="*" Role="ToRole_OthersToDiv"/>
+        <ReferentialConstraint>
+          <Principal Role="FromRole_OthersToDiv">
+            <PropertyRef Name="Bukrs"/>
+            <PropertyRef Name="Btanum"/>
+            <PropertyRef Name="Itseq"/>
+          </Principal>
+          <Dependent Role="ToRole_OthersToDiv">
+            <PropertyRef Name="Bukrs"/>
+            <PropertyRef Name="Btanum"/>
+            <PropertyRef Name="Itseq"/>
+          </Dependent>
+        </ReferentialConstraint>
+      </Association>
+      <Association Name="ItemToDiv" sap:content-version="1">
+        <End Type="ZVWGW_FI006_SRV.BTA_ITEM" Multiplicity="1" Role="FromRole_ItemToDiv"/>
+        <End Type="ZVWGW_FI006_SRV.BTA_ITEM_DIV" Multiplicity="*" Role="ToRole_ItemToDiv"/>
+        <ReferentialConstraint>
+          <Principal Role="FromRole_ItemToDiv">
+            <PropertyRef Name="Itseq"/>
+            <PropertyRef Name="Btanum"/>
+            <PropertyRef Name="Bukrs"/>
+          </Principal>
+          <Dependent Role="ToRole_ItemToDiv">
+            <PropertyRef Name="Itseq"/>
+            <PropertyRef Name="Btanum"/>
+            <PropertyRef Name="Bukrs"/>
+          </Dependent>
+        </ReferentialConstraint>
+      </Association>
+      <EntityContainer Name="ZVWGW_FI006_SRV_Entities" m:IsDefaultEntityContainer="true"
+                       sap:supported-formats="atom json xlsx">
+        <EntitySet Name="ZfihBt01Set" EntityType="ZVWGW_FI006_SRV.ZfihBt01" sap:creatable="false" sap:updatable="false"
+                   sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="ZfihBt02Set" EntityType="ZVWGW_FI006_SRV.ZfihBt02" sap:creatable="false" sap:updatable="false"
+                   sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="ZfihBt03Set" EntityType="ZVWGW_FI006_SRV.ZfihBt03" sap:creatable="false" sap:updatable="false"
+                   sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="ZfihBt04Set" EntityType="ZVWGW_FI006_SRV.ZfihBt04" sap:creatable="false" sap:updatable="false"
+                   sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="ZfihBt05Set" EntityType="ZVWGW_FI006_SRV.ZfihBt05" sap:creatable="false" sap:updatable="false"
+                   sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="ZfihBt06Set" EntityType="ZVWGW_FI006_SRV.ZfihBt06" sap:creatable="false" sap:updatable="false"
+                   sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="ZfihBt07Set" EntityType="ZVWGW_FI006_SRV.ZfihBt07" sap:creatable="false" sap:updatable="false"
+                   sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="ZfihBt08Set" EntityType="ZVWGW_FI006_SRV.ZfihBt08" sap:creatable="false" sap:updatable="false"
+                   sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="ZfihBt09Set" EntityType="ZVWGW_FI006_SRV.ZfihBt09" sap:creatable="false" sap:updatable="false"
+                   sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="COMP_CARD_LISTSet" EntityType="ZVWGW_FI006_SRV.COMP_CARD_LIST" sap:creatable="false"
+                   sap:updatable="false" sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="ZfihBtaHeaderSet" EntityType="ZVWGW_FI006_SRV.ZfihBtaHeader" sap:creatable="false"
+                   sap:updatable="false" sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="BTA_HEADERSet" EntityType="ZVWGW_FI006_SRV.BTA_HEADER" sap:creatable="false"
+                   sap:updatable="false" sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="BTA_ITEMSet" EntityType="ZVWGW_FI006_SRV.BTA_ITEM" sap:creatable="false" sap:updatable="false"
+                   sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="BTA_ROUTESet" EntityType="ZVWGW_FI006_SRV.BTA_ROUTE" sap:creatable="false"
+                   sap:updatable="false" sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="EXCHANGE_RATE_INFOSet" EntityType="ZVWGW_FI006_SRV.EXCHANGE_RATE_INFO" sap:creatable="false"
+                   sap:updatable="false" sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="BTA_ITEM_DIVSet" EntityType="ZVWGW_FI006_SRV.BTA_ITEM_DIV" sap:creatable="false"
+                   sap:updatable="false" sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="BTA_OTHERSSet" EntityType="ZVWGW_FI006_SRV.BTA_OTHERS" sap:creatable="false"
+                   sap:updatable="false" sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="BTA_LISTSet" EntityType="ZVWGW_FI006_SRV.BTA_LIST" sap:creatable="false" sap:updatable="false"
+                   sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="HEAD_INFOSet" EntityType="ZVWGW_FI006_SRV.HEAD_INFO" sap:creatable="false"
+                   sap:updatable="false" sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="INT_ORDERSet" EntityType="ZVWGW_FI006_SRV.INT_ORDER" sap:creatable="false"
+                   sap:updatable="false" sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="EMPLOYEESet" EntityType="ZVWGW_FI006_SRV.EMPLOYEE" sap:creatable="false" sap:updatable="false"
+                   sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <EntitySet Name="ZfihWaersSet" EntityType="ZVWGW_FI006_SRV.ZfihWaers" sap:creatable="false"
+                   sap:updatable="false" sap:deletable="false" sap:pageable="false" sap:content-version="1"/>
+        <AssociationSet Name="HeadToItemSet" Association="ZVWGW_FI006_SRV.HeadToItem" sap:creatable="false"
+                        sap:updatable="false" sap:deletable="false" sap:content-version="1">
+          <End EntitySet="BTA_HEADERSet" Role="FromRole_HeadToItem"/>
+          <End EntitySet="BTA_ITEMSet" Role="ToRole_HeadToItem"/>
+        </AssociationSet>
+        <AssociationSet Name="ItemToDivSet" Association="ZVWGW_FI006_SRV.ItemToDiv" sap:creatable="false"
+                        sap:updatable="false" sap:deletable="false" sap:content-version="1">
+          <End EntitySet="BTA_ITEMSet" Role="FromRole_ItemToDiv"/>
+          <End EntitySet="BTA_ITEM_DIVSet" Role="ToRole_ItemToDiv"/>
+        </AssociationSet>
+        <AssociationSet Name="HeadToRouteSet" Association="ZVWGW_FI006_SRV.HeadToRoute" sap:creatable="false"
+                        sap:updatable="false" sap:deletable="false" sap:content-version="1">
+          <End EntitySet="BTA_HEADERSet" Role="FromRole_HeadToRoute"/>
+          <End EntitySet="BTA_ROUTESet" Role="ToRole_HeadToRoute"/>
+        </AssociationSet>
+        <AssociationSet Name="OthersToDivSet" Association="ZVWGW_FI006_SRV.OthersToDiv" sap:creatable="false"
+                        sap:updatable="false" sap:deletable="false" sap:content-version="1">
+          <End EntitySet="BTA_OTHERSSet" Role="FromRole_OthersToDiv"/>
+          <End EntitySet="BTA_ITEM_DIVSet" Role="ToRole_OthersToDiv"/>
+        </AssociationSet>
+        <AssociationSet Name="HeadToOthersSet" Association="ZVWGW_FI006_SRV.HeadToOthers" sap:creatable="false"
+                        sap:updatable="false" sap:deletable="false" sap:content-version="1">
+          <End EntitySet="BTA_HEADERSet" Role="FromRole_HeadToOthers"/>
+          <End EntitySet="BTA_OTHERSSet" Role="ToRole_HeadToOthers"/>
+        </AssociationSet>
+        <FunctionImport Name="GET_EXCHANGE_RATE_INFO" ReturnType="ZVWGW_FI006_SRV.EXCHANGE_RATE_INFO"
+                        EntitySet="EXCHANGE_RATE_INFOSet" m:HttpMethod="GET">
+          <Parameter Name="LAND1" Type="Edm.String" Mode="In" MaxLength="3"/>
+          <Parameter Name="EX_DATE" Type="Edm.String" Mode="In" MaxLength="8"/>
+        </FunctionImport>
+        <FunctionImport Name="GET_BTA_LIST" ReturnType="Collection(ZVWGW_FI006_SRV.BTA_LIST)" EntitySet="BTA_LISTSet"
+                        m:HttpMethod="GET"/>
+        <FunctionImport Name="GET_CARD_LIST" ReturnType="Collection(ZVWGW_FI006_SRV.COMP_CARD_LIST)"
+                        EntitySet="COMP_CARD_LISTSet" m:HttpMethod="GET">
+          <Parameter Name="FDATE" Type="Edm.String" Mode="In" MaxLength="8"/>
+          <Parameter Name="TDATE" Type="Edm.String" Mode="In" MaxLength="8"/>
+          <Parameter Name="UNAME" Type="Edm.String" Mode="In" MaxLength="12"/>
+        </FunctionImport>
+        <FunctionImport Name="GET_HEAD_INFO" ReturnType="ZVWGW_FI006_SRV.HEAD_INFO" EntitySet="HEAD_INFOSet"
+                        m:HttpMethod="GET"/>
+        <FunctionImport Name="GET_EXCHANGE_RATE_INFO_WAERS" ReturnType="ZVWGW_FI006_SRV.EXCHANGE_RATE_INFO"
+                        EntitySet="EXCHANGE_RATE_INFOSet" m:HttpMethod="GET">
+          <Parameter Name="WAERS" Type="Edm.String" Mode="In" MaxLength="3"/>
+          <Parameter Name="EX_DATE" Type="Edm.String" Mode="In" MaxLength="8"/>
+        </FunctionImport>
+      </EntityContainer>
+      <atom:link rel="self" href="http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/$metadata"
+                 xmlns:atom="http://www.w3.org/2005/Atom"/>
+      <atom:link rel="latest-version"
+                 href="http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/$metadata"
+                 xmlns:atom="http://www.w3.org/2005/Atom"/>
+    </Schema>
+  </edmx:DataServices>
+</edmx:Edmx>

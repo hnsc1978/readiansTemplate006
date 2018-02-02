@@ -1,0 +1,2634 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AD',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AD',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "AD",
+        "Waers": "ADP",
+        "Land1Text": "안도라",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AE',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AE',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "AE",
+        "Waers": "AED",
+        "Land1Text": "아랍에미리트",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AG',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AG',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "AG",
+        "Waers": "",
+        "Land1Text": "앤티가 바부다",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AI',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AI',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "AI",
+        "Waers": "",
+        "Land1Text": "앵귈라",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AL',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AL',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "AL",
+        "Waers": "ALL",
+        "Land1Text": "알바니아",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AM',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AM',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "AM",
+        "Waers": "AMD",
+        "Land1Text": "아르메니아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AO',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AO',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "AO",
+        "Waers": "AON",
+        "Land1Text": "앙골라",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AR',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AR',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "AR",
+        "Waers": "ARS",
+        "Land1Text": "아르헨티나",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AS',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AS',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "AS",
+        "Waers": "",
+        "Land1Text": "미국령 사모아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AT',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AT',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "AT",
+        "Waers": "",
+        "Land1Text": "오스트리아",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AU',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AU',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "AU",
+        "Waers": "AUD",
+        "Land1Text": "오스트레일리아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AW',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AW',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "AW",
+        "Waers": "AWG",
+        "Land1Text": "아루바",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AZ',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='AZ',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "AZ",
+        "Waers": "AZM",
+        "Land1Text": "아제르바이잔",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BA',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BA',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BA",
+        "Waers": "BAM",
+        "Land1Text": "Bosnia-Herz.",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BB',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BB',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BB",
+        "Waers": "BBD",
+        "Land1Text": "바베이도스",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BD',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BD',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BD",
+        "Waers": "BDT",
+        "Land1Text": "방글라데시",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BE',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BE',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BE",
+        "Waers": "EUR",
+        "Land1Text": "벨기에",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BF',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BF',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BF",
+        "Waers": "",
+        "Land1Text": "부르키나파소",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BG',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BG',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BG",
+        "Waers": "BGN",
+        "Land1Text": "불가리아",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BH',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BH',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BH",
+        "Waers": "BHD",
+        "Land1Text": "바레인",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BI',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BI',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BI",
+        "Waers": "BIF",
+        "Land1Text": "부룬디",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BJ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BJ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BJ",
+        "Waers": "",
+        "Land1Text": "베냉",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BM',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BM',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BM",
+        "Waers": "BMD",
+        "Land1Text": "버뮤다",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BN',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BN',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BN",
+        "Waers": "BND",
+        "Land1Text": "브루나이",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BO',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BO',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BO",
+        "Waers": "BOB",
+        "Land1Text": "볼리비아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BR',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BR',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BR",
+        "Waers": "BRL",
+        "Land1Text": "브라질",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BS',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BS',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BS",
+        "Waers": "BSD",
+        "Land1Text": "바하마",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BW',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BW',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BW",
+        "Waers": "BWP",
+        "Land1Text": "보츠와나",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BY',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BY',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BY",
+        "Waers": "BYR",
+        "Land1Text": "벨로루시",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BZ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='BZ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "BZ",
+        "Waers": "BZD",
+        "Land1Text": "벨리즈",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CA',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CA',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CA",
+        "Waers": "CAD",
+        "Land1Text": "캐나다",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CC',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CC',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CC",
+        "Waers": "",
+        "Land1Text": "킬링 제도",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CF',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CF',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CF",
+        "Waers": "XPF",
+        "Land1Text": "CAR",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CG',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CG',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CG",
+        "Waers": "",
+        "Land1Text": "콩고",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CH',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CH',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CH",
+        "Waers": "",
+        "Land1Text": "스위스",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CI',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CI',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CI",
+        "Waers": "",
+        "Land1Text": "코트디부아르",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CK',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CK',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CK",
+        "Waers": "",
+        "Land1Text": "쿡 제도",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CL',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CL',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CL",
+        "Waers": "CLP",
+        "Land1Text": "칠레",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CM',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CM',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CM",
+        "Waers": "",
+        "Land1Text": "카메룬",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CN',Land1Grp='CN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CN',Land1Grp='CN')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CN",
+        "Waers": "",
+        "Land1Text": "중국",
+        "Land1Grp": "CN",
+        "Land1GrpText": "중국"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CO',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CO',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CO",
+        "Waers": "COP",
+        "Land1Text": "콜롬비아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CR',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CR',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CR",
+        "Waers": "CRC",
+        "Land1Text": "코스타리카",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CU',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CU',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CU",
+        "Waers": "CUP",
+        "Land1Text": "쿠바",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CV',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CV',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CV",
+        "Waers": "CVE",
+        "Land1Text": "카보베르데",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CX',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CX',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CX",
+        "Waers": "",
+        "Land1Text": "크리스마스 섬",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CY',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CY',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CY",
+        "Waers": "CYP",
+        "Land1Text": "키프로스",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CZ',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='CZ',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "CZ",
+        "Waers": "CZK",
+        "Land1Text": "체코",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='DE',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='DE',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "DE",
+        "Waers": "EUR",
+        "Land1Text": "독일",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='DJ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='DJ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "DJ",
+        "Waers": "DJF",
+        "Land1Text": "지부티",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='DK',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='DK',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "DK",
+        "Waers": "DKK",
+        "Land1Text": "덴마크",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='DM',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='DM',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "DM",
+        "Waers": "",
+        "Land1Text": "도미니카",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='DO',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='DO',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "DO",
+        "Waers": "DOP",
+        "Land1Text": "도미니카 공화국",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='DZ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='DZ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "DZ",
+        "Waers": "DZD",
+        "Land1Text": "알제리",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='EC',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='EC',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "EC",
+        "Waers": "",
+        "Land1Text": "에콰도르",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='EE',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='EE',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "EE",
+        "Waers": "EEK",
+        "Land1Text": "에스토니아",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='EG',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='EG',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "EG",
+        "Waers": "EGP",
+        "Land1Text": "이집트",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ER',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ER',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "ER",
+        "Waers": "",
+        "Land1Text": "에리트레아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ES',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ES',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "ES",
+        "Waers": "EUR",
+        "Land1Text": "스페인",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ET',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ET',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "ET",
+        "Waers": "ETB",
+        "Land1Text": "에티오피아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='FI',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='FI',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "FI",
+        "Waers": "EUR",
+        "Land1Text": "핀란드",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='FJ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='FJ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "FJ",
+        "Waers": "FJD",
+        "Land1Text": "피지",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='FK',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='FK',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "FK",
+        "Waers": "FKP",
+        "Land1Text": "포클랜드 제도",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='FM',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='FM',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "FM",
+        "Waers": "",
+        "Land1Text": "미크로네시아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='FO',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='FO',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "FO",
+        "Waers": "",
+        "Land1Text": "페로 제도",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='FR',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='FR',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "FR",
+        "Waers": "EUR",
+        "Land1Text": "프랑스",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GA',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GA',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GA",
+        "Waers": "",
+        "Land1Text": "가봉",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GB',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GB',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GB",
+        "Waers": "GBP",
+        "Land1Text": "영국",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GD',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GD',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GD",
+        "Waers": "",
+        "Land1Text": "그레나다",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GF',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GF',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GF",
+        "Waers": "",
+        "Land1Text": "프랑스령 기아나",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GH',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GH',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GH",
+        "Waers": "GHC",
+        "Land1Text": "가나",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GI',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GI',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GI",
+        "Waers": "GIP",
+        "Land1Text": "지브롤터",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GL',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GL',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GL",
+        "Waers": "",
+        "Land1Text": "그린란드",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GM',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GM',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GM",
+        "Waers": "GMD",
+        "Land1Text": "감비아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GN',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GN',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GN",
+        "Waers": "GNF",
+        "Land1Text": "기니",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GP',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GP',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GP",
+        "Waers": "",
+        "Land1Text": "과들루프",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GQ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GQ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GQ",
+        "Waers": "",
+        "Land1Text": "적도 기니",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GR',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GR',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GR",
+        "Waers": "GRD",
+        "Land1Text": "그리스",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GT',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GT',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GT",
+        "Waers": "GTQ",
+        "Land1Text": "과테말라",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GU',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GU',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GU",
+        "Waers": "",
+        "Land1Text": "괌",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GW',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GW',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GW",
+        "Waers": "GWP",
+        "Land1Text": "기니비사우",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GY',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='GY',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "GY",
+        "Waers": "GYD",
+        "Land1Text": "가이아나",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='HK',Land1Grp='CN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='HK',Land1Grp='CN')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "HK",
+        "Waers": "HKD",
+        "Land1Text": "홍콩",
+        "Land1Grp": "CN",
+        "Land1GrpText": "중국"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='HN',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='HN',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "HN",
+        "Waers": "HNL",
+        "Land1Text": "온두라스",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='HR',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='HR',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "HR",
+        "Waers": "",
+        "Land1Text": "크로아티아",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='HT',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='HT',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "HT",
+        "Waers": "HTG",
+        "Land1Text": "아이티",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='HU',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='HU',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "HU",
+        "Waers": "HUF",
+        "Land1Text": "헝가리",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ID',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ID',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "ID",
+        "Waers": "IDR",
+        "Land1Text": "인도네시아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IE',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IE',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "IE",
+        "Waers": "EUR",
+        "Land1Text": "아일랜드",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IL',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IL',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "IL",
+        "Waers": "ILS",
+        "Land1Text": "이스라엘",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IN',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IN',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "IN",
+        "Waers": "",
+        "Land1Text": "인도",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IQ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IQ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "IQ",
+        "Waers": "IQD",
+        "Land1Text": "이라크",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IR',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IR',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "IR",
+        "Waers": "IRR",
+        "Land1Text": "이란",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IS',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IS',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "IS",
+        "Waers": "ISK",
+        "Land1Text": "아이슬란드",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IT',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='IT',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "IT",
+        "Waers": "EUR",
+        "Land1Text": "이탈리아",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='JM',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='JM',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "JM",
+        "Waers": "JMD",
+        "Land1Text": "자메이카",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='JO',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='JO',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "JO",
+        "Waers": "JOD",
+        "Land1Text": "요르단",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='JP',Land1Grp='JP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='JP',Land1Grp='JP')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "JP",
+        "Waers": "JPY",
+        "Land1Text": "일본",
+        "Land1Grp": "JP",
+        "Land1GrpText": "일본"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KE',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KE',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "KE",
+        "Waers": "KES",
+        "Land1Text": "케냐",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KG',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KG',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "KG",
+        "Waers": "KGS",
+        "Land1Text": "키르기스스탄",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KH',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KH',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "KH",
+        "Waers": "KHR",
+        "Land1Text": "캄보디아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KI',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KI',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "KI",
+        "Waers": "",
+        "Land1Text": "키리바시",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KN',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KN',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "KN",
+        "Waers": "",
+        "Land1Text": "St Kitts&Nevis",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KP',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KP',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "KP",
+        "Waers": "KPW",
+        "Land1Text": "북한",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KR',Land1Grp='KR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KR',Land1Grp='KR')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "KR",
+        "Waers": "KRW",
+        "Land1Text": "대한민국",
+        "Land1Grp": "KR",
+        "Land1GrpText": "대한민국"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KW',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KW',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "KW",
+        "Waers": "KWD",
+        "Land1Text": "쿠웨이트",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KY',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KY',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "KY",
+        "Waers": "KYD",
+        "Land1Text": "케이맨 제도",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KZ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='KZ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "KZ",
+        "Waers": "KZT",
+        "Land1Text": "카자흐스탄",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LA',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LA',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "LA",
+        "Waers": "LAK",
+        "Land1Text": "라오스",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LB',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LB',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "LB",
+        "Waers": "LBP",
+        "Land1Text": "레바논",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LC',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LC',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "LC",
+        "Waers": "",
+        "Land1Text": "세인트 루시아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LI',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LI',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "LI",
+        "Waers": "",
+        "Land1Text": "리히텐슈타인",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LK',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LK',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "LK",
+        "Waers": "LKR",
+        "Land1Text": "스리랑카",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LR',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LR',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "LR",
+        "Waers": "LRD",
+        "Land1Text": "라이베리아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LS',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LS',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "LS",
+        "Waers": "LSL",
+        "Land1Text": "레소토",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LT',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LT',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "LT",
+        "Waers": "LTL",
+        "Land1Text": "리투아니아",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LU',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LU',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "LU",
+        "Waers": "EUR",
+        "Land1Text": "룩셈부르크",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LV',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LV',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "LV",
+        "Waers": "LVL",
+        "Land1Text": "라트비아",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LY',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='LY',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "LY",
+        "Waers": "LYD",
+        "Land1Text": "리비아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MA',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MA',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MA",
+        "Waers": "MAD",
+        "Land1Text": "모로코",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MC',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MC',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MC",
+        "Waers": "",
+        "Land1Text": "모나코",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MD',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MD',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MD",
+        "Waers": "MDL",
+        "Land1Text": "몰도바",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MG',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MG',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MG",
+        "Waers": "MGF",
+        "Land1Text": "마다가스카르",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MH',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MH',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MH",
+        "Waers": "",
+        "Land1Text": "마셜 제도",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MK',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MK',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MK",
+        "Waers": "",
+        "Land1Text": "마케도니아",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ML',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ML',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "ML",
+        "Waers": "",
+        "Land1Text": "말리",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MM',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MM',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MM",
+        "Waers": "",
+        "Land1Text": "미얀마",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MN',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MN',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MN",
+        "Waers": "MNT",
+        "Land1Text": "몽골",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MO',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MO',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MO",
+        "Waers": "MOP",
+        "Land1Text": "마카오",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MP',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MP',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MP",
+        "Waers": "",
+        "Land1Text": "북마리아나 제도",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MQ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MQ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MQ",
+        "Waers": "",
+        "Land1Text": "마르티니크",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MR',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MR',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MR",
+        "Waers": "MRO",
+        "Land1Text": "모리타니",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MS',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MS',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MS",
+        "Waers": "",
+        "Land1Text": "몬트세라트",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MT',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MT',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MT",
+        "Waers": "MTL",
+        "Land1Text": "몰타",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MU',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MU',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MU",
+        "Waers": "MUR",
+        "Land1Text": "모리셔스",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MV',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MV',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MV",
+        "Waers": "MVR",
+        "Land1Text": "몰디브",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MW',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MW',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MW",
+        "Waers": "MWK",
+        "Land1Text": "말라위",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MX',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MX',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MX",
+        "Waers": "",
+        "Land1Text": "멕시코",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MY',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MY',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MY",
+        "Waers": "",
+        "Land1Text": "말레이시아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MZ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='MZ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "MZ",
+        "Waers": "MZM",
+        "Land1Text": "모잠비크",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NA',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NA',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "NA",
+        "Waers": "NAD",
+        "Land1Text": "나미비아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NC',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NC',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "NC",
+        "Waers": "",
+        "Land1Text": "뉴칼레도니아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NE',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NE',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "NE",
+        "Waers": "",
+        "Land1Text": "니제르",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NF',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NF',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "NF",
+        "Waers": "",
+        "Land1Text": "노퍽 섬",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NG',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NG',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "NG",
+        "Waers": "NGN",
+        "Land1Text": "나이지리아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NI',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NI',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "NI",
+        "Waers": "NIO",
+        "Land1Text": "니카라과",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NL',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NL',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "NL",
+        "Waers": "",
+        "Land1Text": "네덜란드",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NO',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NO',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "NO",
+        "Waers": "NOK",
+        "Land1Text": "노르웨이",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NP',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NP',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "NP",
+        "Waers": "NPR",
+        "Land1Text": "네팔",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NR',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NR',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "NR",
+        "Waers": "",
+        "Land1Text": "나우루",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NZ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='NZ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "NZ",
+        "Waers": "NZD",
+        "Land1Text": "뉴질랜드",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='OM',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='OM',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "OM",
+        "Waers": "OMR",
+        "Land1Text": "오만",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PA',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PA',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "PA",
+        "Waers": "PAB",
+        "Land1Text": "파나마",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PE',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PE',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "PE",
+        "Waers": "PEN",
+        "Land1Text": "페루",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PF',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PF',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "PF",
+        "Waers": "",
+        "Land1Text": "Frenc.Polynesia",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PG',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PG',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "PG",
+        "Waers": "PGK",
+        "Land1Text": "파푸아뉴기니",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PH',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PH',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "PH",
+        "Waers": "PHP",
+        "Land1Text": "필리핀",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PK',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PK',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "PK",
+        "Waers": "PKR",
+        "Land1Text": "파키스탄",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PL',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PL',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "PL",
+        "Waers": "PLN",
+        "Land1Text": "폴란드",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PM',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PM',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "PM",
+        "Waers": "",
+        "Land1Text": "St.Pier,Miquel.",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PR',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PR',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "PR",
+        "Waers": "",
+        "Land1Text": "푸에르토리코",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PT',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PT',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "PT",
+        "Waers": "EUR",
+        "Land1Text": "포르투갈",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PW',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PW',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "PW",
+        "Waers": "",
+        "Land1Text": "팔라우",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PY',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='PY',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "PY",
+        "Waers": "PYG",
+        "Land1Text": "파라과이",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='QA',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='QA',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "QA",
+        "Waers": "QAR",
+        "Land1Text": "카타르",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='RE',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='RE',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "RE",
+        "Waers": "",
+        "Land1Text": "리유니언 섬",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='RO',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='RO',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "RO",
+        "Waers": "ROL",
+        "Land1Text": "루마니아",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='RU',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='RU',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "RU",
+        "Waers": "RUB",
+        "Land1Text": "러시아",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='RW',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='RW',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "RW",
+        "Waers": "RWF",
+        "Land1Text": "르완다",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SA',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SA',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SA",
+        "Waers": "SAR",
+        "Land1Text": "사우디아라비아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SB',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SB',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SB",
+        "Waers": "SBD",
+        "Land1Text": "솔로몬 제도",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SC',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SC',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SC",
+        "Waers": "SCR",
+        "Land1Text": "세이셸",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SD',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SD',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SD",
+        "Waers": "SDP",
+        "Land1Text": "수단",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SE',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SE',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SE",
+        "Waers": "SEK",
+        "Land1Text": "스웨덴",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SG',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SG',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SG",
+        "Waers": "SGD",
+        "Land1Text": "싱가포르",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SH',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SH',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SH",
+        "Waers": "SHP",
+        "Land1Text": "세인트 헬레나",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SI',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SI',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SI",
+        "Waers": "SIT",
+        "Land1Text": "슬로베니아",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SK',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SK',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SK",
+        "Waers": "SKK",
+        "Land1Text": "슬로바키아",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SL',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SL',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SL",
+        "Waers": "SLL",
+        "Land1Text": "시에라리온",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SM',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SM',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SM",
+        "Waers": "",
+        "Land1Text": "산마리노",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SN',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SN',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SN",
+        "Waers": "",
+        "Land1Text": "세네갈",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SO',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SO',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SO",
+        "Waers": "SOS",
+        "Land1Text": "소말리아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SR',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SR',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SR",
+        "Waers": "SRG",
+        "Land1Text": "수리남",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SS',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SS',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SS",
+        "Waers": "",
+        "Land1Text": "남수단",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ST',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ST',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "ST",
+        "Waers": "STD",
+        "Land1Text": "상투메 프린시페",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SV',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SV',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SV",
+        "Waers": "SVC",
+        "Land1Text": "엘살바도르",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SY',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SY',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SY",
+        "Waers": "SYP",
+        "Land1Text": "시리아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SZ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='SZ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "SZ",
+        "Waers": "SZL",
+        "Land1Text": "스와질란드",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TC',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TC',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TC",
+        "Waers": "",
+        "Land1Text": "Turksh Caicosin",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TD',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TD',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TD",
+        "Waers": "",
+        "Land1Text": "차드",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TG',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TG',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TG",
+        "Waers": "",
+        "Land1Text": "토고",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TH',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TH',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TH",
+        "Waers": "THB",
+        "Land1Text": "태국",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TJ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TJ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TJ",
+        "Waers": "TJR",
+        "Land1Text": "타지키스탄",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TL',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TL',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TL",
+        "Waers": "",
+        "Land1Text": "동티모르",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TM',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TM',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TM",
+        "Waers": "TMM",
+        "Land1Text": "투르크메니스탄",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TN',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TN',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TN",
+        "Waers": "TND",
+        "Land1Text": "튀니지",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TO',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TO',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TO",
+        "Waers": "TOP",
+        "Land1Text": "통가",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TP',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TP',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TP",
+        "Waers": "TPE",
+        "Land1Text": "동티모르",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TR',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TR',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TR",
+        "Waers": "TRL",
+        "Land1Text": "터키",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TT',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TT',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TT",
+        "Waers": "TTD",
+        "Land1Text": "Trinidad,Tobago",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TW',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TW',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TW",
+        "Waers": "TWD",
+        "Land1Text": "대만",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TZ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='TZ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "TZ",
+        "Waers": "TZS",
+        "Land1Text": "탄자니아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='UA',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='UA',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "UA",
+        "Waers": "UAH",
+        "Land1Text": "우크라이나",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='UG',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='UG',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "UG",
+        "Waers": "UGX",
+        "Land1Text": "우간다",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='US',Land1Grp='US')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='US',Land1Grp='US')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "US",
+        "Waers": "USD",
+        "Land1Text": "미국",
+        "Land1Grp": "US",
+        "Land1GrpText": "미국"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='UY',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='UY',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "UY",
+        "Waers": "UYU",
+        "Land1Text": "우르과이",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='UZ',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='UZ',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "UZ",
+        "Waers": "",
+        "Land1Text": "우즈베키스탄",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VA',Land1Grp='EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VA',Land1Grp='EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "VA",
+        "Waers": "",
+        "Land1Text": "바티칸",
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VC',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VC',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "VC",
+        "Waers": "",
+        "Land1Text": "세인트 빈센트",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VE',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VE',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "VE",
+        "Waers": "VEB",
+        "Land1Text": "베네수엘라",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VG',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VG',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "VG",
+        "Waers": "",
+        "Land1Text": "Brit.Virgin Is.",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VI',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VI',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "VI",
+        "Waers": "",
+        "Land1Text": "US 버진아일랜드",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VN',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VN',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "VN",
+        "Waers": "VND",
+        "Land1Text": "베트남",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VU',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='VU',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "VU",
+        "Waers": "VUV",
+        "Land1Text": "바누아투",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='WS',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='WS',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "WS",
+        "Waers": "WST",
+        "Land1Text": "사모아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='YE',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='YE',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "YE",
+        "Waers": "YER",
+        "Land1Text": "예멘",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='YT',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='YT',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "YT",
+        "Waers": "",
+        "Land1Text": "마요트",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ZA',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ZA',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "ZA",
+        "Waers": "ZAR",
+        "Land1Text": "남아프리카",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ZM',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ZM',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "ZM",
+        "Waers": "ZMK",
+        "Land1Text": "잠비아",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ZW',Land1Grp='OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt03Set(Land1='ZW',Land1Grp='OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt03"
+        },
+        "Land1": "ZW",
+        "Waers": "ZWD",
+        "Land1Text": "짐바브웨",
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      }
+    ]
+  }
+}

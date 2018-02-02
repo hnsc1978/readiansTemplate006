@@ -1,0 +1,24 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt04Set('1')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt04Set('1')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt04"
+        },
+        "Ptype": "1",
+        "PtypeText": "회사지급"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt04Set('2')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt04Set('2')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt04"
+        },
+        "Ptype": "2",
+        "PtypeText": "개인지급"
+      }
+    ]
+  }
+}

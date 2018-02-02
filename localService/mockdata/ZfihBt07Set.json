@@ -1,0 +1,380 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='01',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='01',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "01",
+        "EmpGradeCdText": "대표이사",
+        "Bttype": "1",
+        "BttypeText": "국내출장",
+        "Land1Grp": "KR",
+        "Land1GrpText": "대한민국",
+        "Land1": "KR",
+        "Land1Text": "대한민국",
+        "Netpr": "100000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='01',Bttype='2',Land1Grp='US',Land1='US')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='01',Bttype='2',Land1Grp='US',Land1='US')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "01",
+        "EmpGradeCdText": "대표이사",
+        "Bttype": "2",
+        "BttypeText": "해외출장",
+        "Land1Grp": "US",
+        "Land1GrpText": "미국",
+        "Land1": "US",
+        "Land1Text": "미국",
+        "Netpr": "100000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='02',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='02',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "02",
+        "EmpGradeCdText": "전무",
+        "Bttype": "1",
+        "BttypeText": "국내출장",
+        "Land1Grp": "KR",
+        "Land1GrpText": "대한민국",
+        "Land1": "KR",
+        "Land1Text": "대한민국",
+        "Netpr": "90000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='02',Bttype='2',Land1Grp='US',Land1='US')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='02',Bttype='2',Land1Grp='US',Land1='US')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "02",
+        "EmpGradeCdText": "전무",
+        "Bttype": "2",
+        "BttypeText": "해외출장",
+        "Land1Grp": "US",
+        "Land1GrpText": "미국",
+        "Land1": "US",
+        "Land1Text": "미국",
+        "Netpr": "90000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='03',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='03',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "03",
+        "EmpGradeCdText": "상무",
+        "Bttype": "1",
+        "BttypeText": "국내출장",
+        "Land1Grp": "KR",
+        "Land1GrpText": "대한민국",
+        "Land1": "KR",
+        "Land1Text": "대한민국",
+        "Netpr": "90000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='03',Bttype='2',Land1Grp='US',Land1='US')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='03',Bttype='2',Land1Grp='US',Land1='US')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "03",
+        "EmpGradeCdText": "상무",
+        "Bttype": "2",
+        "BttypeText": "해외출장",
+        "Land1Grp": "US",
+        "Land1GrpText": "미국",
+        "Land1": "US",
+        "Land1Text": "미국",
+        "Netpr": "90000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='04',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='04',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "04",
+        "EmpGradeCdText": "이사",
+        "Bttype": "1",
+        "BttypeText": "국내출장",
+        "Land1Grp": "KR",
+        "Land1GrpText": "대한민국",
+        "Land1": "KR",
+        "Land1Text": "대한민국",
+        "Netpr": "90000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='04',Bttype='2',Land1Grp='US',Land1='US')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='04',Bttype='2',Land1Grp='US',Land1='US')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "04",
+        "EmpGradeCdText": "이사",
+        "Bttype": "2",
+        "BttypeText": "해외출장",
+        "Land1Grp": "US",
+        "Land1GrpText": "미국",
+        "Land1": "US",
+        "Land1Text": "미국",
+        "Netpr": "90000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='05',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='05',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "05",
+        "EmpGradeCdText": "고문",
+        "Bttype": "1",
+        "BttypeText": "국내출장",
+        "Land1Grp": "KR",
+        "Land1GrpText": "대한민국",
+        "Land1": "KR",
+        "Land1Text": "대한민국",
+        "Netpr": "90000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='05',Bttype='2',Land1Grp='US',Land1='US')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='05',Bttype='2',Land1Grp='US',Land1='US')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "05",
+        "EmpGradeCdText": "고문",
+        "Bttype": "2",
+        "BttypeText": "해외출장",
+        "Land1Grp": "US",
+        "Land1GrpText": "미국",
+        "Land1": "US",
+        "Land1Text": "미국",
+        "Netpr": "90000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='06',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='06',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "06",
+        "EmpGradeCdText": "부장",
+        "Bttype": "1",
+        "BttypeText": "국내출장",
+        "Land1Grp": "KR",
+        "Land1GrpText": "대한민국",
+        "Land1": "KR",
+        "Land1Text": "대한민국",
+        "Netpr": "80000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='06',Bttype='2',Land1Grp='US',Land1='US')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='06',Bttype='2',Land1Grp='US',Land1='US')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "06",
+        "EmpGradeCdText": "부장",
+        "Bttype": "2",
+        "BttypeText": "해외출장",
+        "Land1Grp": "US",
+        "Land1GrpText": "미국",
+        "Land1": "US",
+        "Land1Text": "미국",
+        "Netpr": "80000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='07',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='07',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "07",
+        "EmpGradeCdText": "차장",
+        "Bttype": "1",
+        "BttypeText": "국내출장",
+        "Land1Grp": "KR",
+        "Land1GrpText": "대한민국",
+        "Land1": "KR",
+        "Land1Text": "대한민국",
+        "Netpr": "70000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='07',Bttype='2',Land1Grp='US',Land1='US')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='07',Bttype='2',Land1Grp='US',Land1='US')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "07",
+        "EmpGradeCdText": "차장",
+        "Bttype": "2",
+        "BttypeText": "해외출장",
+        "Land1Grp": "US",
+        "Land1GrpText": "미국",
+        "Land1": "US",
+        "Land1Text": "미국",
+        "Netpr": "70000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='08',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='08',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "08",
+        "EmpGradeCdText": "과장",
+        "Bttype": "1",
+        "BttypeText": "국내출장",
+        "Land1Grp": "KR",
+        "Land1GrpText": "대한민국",
+        "Land1": "KR",
+        "Land1Text": "대한민국",
+        "Netpr": "60000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='08',Bttype='2',Land1Grp='US',Land1='US')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='08',Bttype='2',Land1Grp='US',Land1='US')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "08",
+        "EmpGradeCdText": "과장",
+        "Bttype": "2",
+        "BttypeText": "해외출장",
+        "Land1Grp": "US",
+        "Land1GrpText": "미국",
+        "Land1": "US",
+        "Land1Text": "미국",
+        "Netpr": "60000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='09',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='09',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "09",
+        "EmpGradeCdText": "대리",
+        "Bttype": "1",
+        "BttypeText": "국내출장",
+        "Land1Grp": "KR",
+        "Land1GrpText": "대한민국",
+        "Land1": "KR",
+        "Land1Text": "대한민국",
+        "Netpr": "60000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='09',Bttype='2',Land1Grp='US',Land1='US')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='09',Bttype='2',Land1Grp='US',Land1='US')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "09",
+        "EmpGradeCdText": "대리",
+        "Bttype": "2",
+        "BttypeText": "해외출장",
+        "Land1Grp": "US",
+        "Land1GrpText": "미국",
+        "Land1": "US",
+        "Land1Text": "미국",
+        "Netpr": "60000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='10',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='10',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "10",
+        "EmpGradeCdText": "주임",
+        "Bttype": "1",
+        "BttypeText": "국내출장",
+        "Land1Grp": "KR",
+        "Land1GrpText": "대한민국",
+        "Land1": "KR",
+        "Land1Text": "대한민국",
+        "Netpr": "60000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='10',Bttype='2',Land1Grp='US',Land1='US')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='10',Bttype='2',Land1Grp='US',Land1='US')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "10",
+        "EmpGradeCdText": "주임",
+        "Bttype": "2",
+        "BttypeText": "해외출장",
+        "Land1Grp": "US",
+        "Land1GrpText": "미국",
+        "Land1": "US",
+        "Land1Text": "미국",
+        "Netpr": "60000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='11',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='11',Bttype='1',Land1Grp='KR',Land1='KR')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "11",
+        "EmpGradeCdText": "사원",
+        "Bttype": "1",
+        "BttypeText": "국내출장",
+        "Land1Grp": "KR",
+        "Land1GrpText": "대한민국",
+        "Land1": "KR",
+        "Land1Text": "대한민국",
+        "Netpr": "60000.000",
+        "Waers": "KRW"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='11',Bttype='2',Land1Grp='US',Land1='US')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt07Set(EmpGradeCd='11',Bttype='2',Land1Grp='US',Land1='US')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt07"
+        },
+        "EmpGradeCd": "11",
+        "EmpGradeCdText": "사원",
+        "Bttype": "2",
+        "BttypeText": "해외출장",
+        "Land1Grp": "US",
+        "Land1GrpText": "미국",
+        "Land1": "US",
+        "Land1Text": "미국",
+        "Netpr": "60000.000",
+        "Waers": "KRW"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt06Set('01')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt06Set('01')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt06"
+        },
+        "Etype": "01",
+        "EtypeText": "일비"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt06Set('02')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt06Set('02')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt06"
+        },
+        "Etype": "02",
+        "EtypeText": "항공"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt06Set('03')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt06Set('03')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt06"
+        },
+        "Etype": "03",
+        "EtypeText": "숙박"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt06Set('04')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt06Set('04')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt06"
+        },
+        "Etype": "04",
+        "EtypeText": "교통"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt06Set('99')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt06Set('99')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt06"
+        },
+        "Etype": "99",
+        "EtypeText": "기타"
+      }
+    ]
+  }
+}

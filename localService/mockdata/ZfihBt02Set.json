@@ -1,0 +1,60 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt02Set('KR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt02Set('KR')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt02"
+        },
+        "Land1Grp": "KR",
+        "Land1GrpText": "대한민국"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt02Set('US')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt02Set('US')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt02"
+        },
+        "Land1Grp": "US",
+        "Land1GrpText": "미국"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt02Set('CN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt02Set('CN')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt02"
+        },
+        "Land1Grp": "CN",
+        "Land1GrpText": "중국"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt02Set('JP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt02Set('JP')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt02"
+        },
+        "Land1Grp": "JP",
+        "Land1GrpText": "일본"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt02Set('EU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt02Set('EU')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt02"
+        },
+        "Land1Grp": "EU",
+        "Land1GrpText": "유럽"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt02Set('OT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt02Set('OT')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt02"
+        },
+        "Land1Grp": "OT",
+        "Land1GrpText": "기타"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+<core:FragmentDefinition
+  height="100%"
+  xmlns:l="sap.ui.layout"
+  xmlns:f="sap.ui.layout.form"
+  xmlns:core="sap.ui.core"
+  xmlns:u="sap.ui.unified"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m">
+  <Panel>
+    <Switch state="{mainData>/MainContent/Step02}"
+            change="onPAI">
+      <customData>
+        <core:CustomData key="fcCode" value="fcCompleteStep" writeToDom="true"/>
+      </customData>
+    </Switch>
+  </Panel>
+</core:FragmentDefinition>

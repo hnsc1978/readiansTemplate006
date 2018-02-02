@@ -1,0 +1,31 @@
+<core:FragmentDefinition
+  height="100%"
+  xmlns:l="sap.ui.layout"
+  xmlns:f="sap.ui.layout.form"
+  xmlns:core="sap.ui.core"
+  xmlns:u="sap.ui.unified"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m">
+  <Panel>
+    <Button text="{i18n>wizard01_Step01}" press="onPAI">
+      <customData>
+        <core:CustomData key="fcCode" value="fc_Back_wizard01_Step01" writeToDom="true"/>
+      </customData>
+    </Button>
+    <Button text="{i18n>wizard01_Step02}" press="onPAI">
+      <customData>
+        <core:CustomData key="fcCode" value="fc_Back_wizard01_Step02" writeToDom="true"/>
+      </customData>
+    </Button>
+    <Button text="{i18n>wizard01_Step03}" press="onPAI">
+      <customData>
+        <core:CustomData key="fcCode" value="fc_Back_wizard01_Step03" writeToDom="true"/>
+      </customData>
+    </Button>
+    <Button text="{i18n>wizard01_Step04}" press="onPAI">
+      <customData>
+        <core:CustomData key="fcCode" value="fc_Back_wizard01_Step04" writeToDom="true"/>
+      </customData>
+    </Button>
+  </Panel>
+</core:FragmentDefinition>

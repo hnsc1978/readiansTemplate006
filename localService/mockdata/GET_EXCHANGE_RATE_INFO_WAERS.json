@@ -1,0 +1,13 @@
+{
+  "d": {
+    "__metadata": {
+      "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/EXCHANGE_RATE_INFOSet('')",
+      "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/EXCHANGE_RATE_INFOSet('')",
+      "type": "ZVWGW_FI006_SRV.EXCHANGE_RATE_INFO"
+    },
+    "Land1": "",
+    "ExDate": "20171231",
+    "Kursf": "1085.00000",
+    "Waers": "USD"
+  }
+}

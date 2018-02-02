@@ -1,0 +1,1905 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ADP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ADP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ADP",
+        "Ktext": "페세타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AED')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AED')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "AED",
+        "Ktext": "디르함"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AFA')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AFA')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "AFA",
+        "Ktext": "아프가니"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AFN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AFN')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "AFN",
+        "Ktext": "아프가니"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ALL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ALL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ALL",
+        "Ktext": "렉"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AMD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AMD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "AMD",
+        "Ktext": "드램"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ANG')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ANG')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ANG",
+        "Ktext": "서인도 길더"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AOA')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AOA')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "AOA",
+        "Ktext": "콴자"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AON')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AON')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "AON",
+        "Ktext": "신 콴자"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AOR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AOR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "AOR",
+        "Ktext": "콴자 Reajustado"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ARS')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ARS')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ARS",
+        "Ktext": "아르헨티나 페소"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ATS')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ATS')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ATS",
+        "Ktext": "실링"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AUD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AUD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "AUD",
+        "Ktext": "호주 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AWG')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AWG')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "AWG",
+        "Ktext": "아루바 플로린"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AZM')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AZM')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "AZM",
+        "Ktext": "마나트"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AZN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('AZN')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "AZN",
+        "Ktext": "마나트"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BAM')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BAM')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BAM",
+        "Ktext": "변환 마르크"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BBD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BBD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BBD",
+        "Ktext": "달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BDT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BDT')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BDT",
+        "Ktext": "타카"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BEF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BEF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BEF",
+        "Ktext": "벨기에 프랑"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BGN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BGN')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BGN",
+        "Ktext": "레프"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BHD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BHD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BHD",
+        "Ktext": "디나르"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BIF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BIF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BIF",
+        "Ktext": "부룬디 프랑"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BMD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BMD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BMD",
+        "Ktext": "버뮤다 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BND')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BND')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BND",
+        "Ktext": "달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BOB')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BOB')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BOB",
+        "Ktext": "볼리비아노"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BRL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BRL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BRL",
+        "Ktext": "레알"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BSD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BSD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BSD",
+        "Ktext": "달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BTN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BTN')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BTN",
+        "Ktext": "뉴트람"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BWP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BWP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BWP",
+        "Ktext": "뿔라"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BYB')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BYB')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BYB",
+        "Ktext": "벨로루시 루블"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BYN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BYN')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BYN",
+        "Ktext": "새 벨로루시루블"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BYR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BYR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BYR",
+        "Ktext": "루블"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BZD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('BZD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "BZD",
+        "Ktext": "달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CAD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CAD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "CAD",
+        "Ktext": "캐나다 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CDF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CDF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "CDF",
+        "Ktext": "테스트 데이터"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('XPF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('XPF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "XPF",
+        "Ktext": "프랑스프랑(Pac)"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CHF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CHF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "CHF",
+        "Ktext": "스위스 프랑"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CLP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CLP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "CLP",
+        "Ktext": "페소"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CNY')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CNY')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "CNY",
+        "Ktext": "인민폐"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('COP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('COP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "COP",
+        "Ktext": "페소"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CRC')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CRC')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "CRC",
+        "Ktext": "코스타리카 콜론"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CSD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CSD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "CSD",
+        "Ktext": "세르비아 디나르"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CUC')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CUC')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "CUC",
+        "Ktext": "태환페소(CUC)"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CUP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CUP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "CUP",
+        "Ktext": "쿠바 페소"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CVE')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CVE')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "CVE",
+        "Ktext": "에스쿠도"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CYP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CYP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "CYP",
+        "Ktext": "키프로스 파운드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CZK')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CZK')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "CZK",
+        "Ktext": "크로나"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('DEM')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('DEM')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "DEM",
+        "Ktext": "독일 마르크"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('DEM')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('DEM')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "DEM",
+        "Ktext": "(내부) DEM 3 DP"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('DJF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('DJF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "DJF",
+        "Ktext": "지부티 프랑"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('DKK')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('DKK')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "DKK",
+        "Ktext": "덴마크 크로네"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('DOP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('DOP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "DOP",
+        "Ktext": "도미니카 페소"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('DZD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('DZD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "DZD",
+        "Ktext": "디나르"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ECS')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ECS')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ECS",
+        "Ktext": "수크레"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('EEK')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('EEK')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "EEK",
+        "Ktext": "크로나"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('EGP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('EGP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "EGP",
+        "Ktext": "파운드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ERN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ERN')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ERN",
+        "Ktext": "나크파"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ESP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ESP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ESP",
+        "Ktext": "페세타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ETB')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ETB')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ETB",
+        "Ktext": "비르"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('EUR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('EUR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "EUR",
+        "Ktext": "유로"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('EU4')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('EU4')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "EU4",
+        "Ktext": ""
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('FIM')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('FIM')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "FIM",
+        "Ktext": "핀란드 마르카"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('FJD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('FJD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "FJD",
+        "Ktext": "달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('FKP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('FKP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "FKP",
+        "Ktext": "폴크랜드 파운드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('FRF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('FRF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "FRF",
+        "Ktext": "프랑스 프랑"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GBP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GBP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "GBP",
+        "Ktext": "영국 파운드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GEL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GEL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "GEL",
+        "Ktext": "라리"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GHC')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GHC')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "GHC",
+        "Ktext": "세디"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GHS')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GHS')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "GHS",
+        "Ktext": "세디"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GIP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GIP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "GIP",
+        "Ktext": "지브랄타 파운드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GMD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GMD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "GMD",
+        "Ktext": "달라시"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GNF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GNF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "GNF",
+        "Ktext": "프랑"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GRD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GRD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "GRD",
+        "Ktext": "드라크마"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GTQ')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GTQ')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "GTQ",
+        "Ktext": "케찰"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GWP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GWP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "GWP",
+        "Ktext": "기니 페소"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GYD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('GYD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "GYD",
+        "Ktext": "가이아나 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('HKD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('HKD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "HKD",
+        "Ktext": "홍콩 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('HNL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('HNL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "HNL",
+        "Ktext": "렘피라"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('HRK')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('HRK')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "HRK",
+        "Ktext": "쿠나"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('HTG')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('HTG')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "HTG",
+        "Ktext": "구르드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('HUF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('HUF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "HUF",
+        "Ktext": "포린트"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('IDR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('IDR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "IDR",
+        "Ktext": "루피아"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('IEP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('IEP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "IEP",
+        "Ktext": "아일랜드 파운드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ILS')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ILS')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ILS",
+        "Ktext": "세켈"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('INR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('INR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "INR",
+        "Ktext": "루피"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('IQD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('IQD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "IQD",
+        "Ktext": "디나르"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('IRR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('IRR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "IRR",
+        "Ktext": "리알"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ISK')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ISK')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ISK",
+        "Ktext": "크로나"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ITL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ITL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ITL",
+        "Ktext": "리라"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('JMD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('JMD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "JMD",
+        "Ktext": "자마이카 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('JOD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('JOD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "JOD",
+        "Ktext": "요르단 디나르"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('JPY')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('JPY')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "JPY",
+        "Ktext": "엔"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KES')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KES')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "KES",
+        "Ktext": "실링"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KGS')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KGS')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "KGS",
+        "Ktext": "Som"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KHR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KHR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "KHR",
+        "Ktext": "릴"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KMF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KMF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "KMF",
+        "Ktext": "코모로 프랑"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KPW')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KPW')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "KPW",
+        "Ktext": "북한 원"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KRW')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KRW')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "KRW",
+        "Ktext": "대한민국 원"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KWD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KWD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "KWD",
+        "Ktext": "디나르"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KYD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KYD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "KYD",
+        "Ktext": "케이먼 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KZT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('KZT')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "KZT",
+        "Ktext": "탱게"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LAK')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LAK')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "LAK",
+        "Ktext": "킵"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LBP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LBP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "LBP",
+        "Ktext": "레바논 파운드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LKR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LKR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "LKR",
+        "Ktext": "스리랑카 루피"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LRD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LRD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "LRD",
+        "Ktext": "라이베리아 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LSL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LSL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "LSL",
+        "Ktext": "로티"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LTL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LTL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "LTL",
+        "Ktext": "리타"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LUF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LUF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "LUF",
+        "Ktext": "룩셈부르크 프랑"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LVL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LVL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "LVL",
+        "Ktext": "라트"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LYD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('LYD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "LYD",
+        "Ktext": "리비아 디나르"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MAD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MAD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MAD",
+        "Ktext": "디르함"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MDL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MDL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MDL",
+        "Ktext": "리우"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MGA')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MGA')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MGA",
+        "Ktext": "MGA"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MGF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MGF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MGF",
+        "Ktext": "Madagascan Fr."
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MKD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MKD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MKD",
+        "Ktext": "Maced. Denar"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MMK')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MMK')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MMK",
+        "Ktext": "차트"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MNT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MNT')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MNT",
+        "Ktext": "투그릭"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MOP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MOP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MOP",
+        "Ktext": "파타카"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MRO')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MRO')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MRO",
+        "Ktext": "우기야"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MTL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MTL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MTL",
+        "Ktext": "리라"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MUR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MUR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MUR",
+        "Ktext": "루피"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MVR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MVR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MVR",
+        "Ktext": "루피야"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MWK')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MWK')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MWK",
+        "Ktext": "말라위 쿠와차"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MXN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MXN')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MXN",
+        "Ktext": "페소"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MYR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MYR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MYR",
+        "Ktext": "링기트"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MZM')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MZM')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MZM",
+        "Ktext": "메티칼"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MZN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('MZN')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "MZN",
+        "Ktext": "메티칼"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NAD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NAD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "NAD",
+        "Ktext": "나미비아 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NGN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NGN')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "NGN",
+        "Ktext": "나이라"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NIO')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NIO')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "NIO",
+        "Ktext": "코르도바 오로"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NLG')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NLG')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "NLG",
+        "Ktext": "길더"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NOK')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NOK')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "NOK",
+        "Ktext": "노르웨이 크로네"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NPR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NPR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "NPR",
+        "Ktext": "루피"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NZD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NZD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "NZD",
+        "Ktext": "뉴질랜드 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NZD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('NZD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "NZD",
+        "Ktext": "뉴질랜드 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('OMR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('OMR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "OMR",
+        "Ktext": "오만 리알"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PAB')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PAB')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "PAB",
+        "Ktext": "발보아"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PEN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PEN')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "PEN",
+        "Ktext": "신 솔"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PGK')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PGK')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "PGK",
+        "Ktext": "키나"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PHP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PHP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "PHP",
+        "Ktext": "페소"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PKR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PKR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "PKR",
+        "Ktext": "루피"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PLN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PLN')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "PLN",
+        "Ktext": "즐로티"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PTE')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PTE')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "PTE",
+        "Ktext": "에스쿠도"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PYG')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('PYG')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "PYG",
+        "Ktext": "과라니"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('QAR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('QAR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "QAR",
+        "Ktext": "리알"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CNY')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('CNY')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "CNY",
+        "Ktext": "위앤 인민폐"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ROL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ROL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ROL",
+        "Ktext": "레우(구)"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('RON')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('RON')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "RON",
+        "Ktext": "레우"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('RSD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('RSD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "RSD",
+        "Ktext": "세르비아 디나르"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('RUB')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('RUB')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "RUB",
+        "Ktext": "루블"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('RWF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('RWF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "RWF",
+        "Ktext": "프랑"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SAR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SAR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SAR",
+        "Ktext": "리알"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SBD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SBD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SBD",
+        "Ktext": "Sol.Isl.Dollar"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SCR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SCR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SCR",
+        "Ktext": "루피"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SDD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SDD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SDD",
+        "Ktext": "디나르"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SDG')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SDG')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SDG",
+        "Ktext": "파운드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SDP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SDP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SDP",
+        "Ktext": "파운드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SEK')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SEK')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SEK",
+        "Ktext": "스웨덴 크로나"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SGD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SGD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SGD",
+        "Ktext": "싱가폴 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SHP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SHP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SHP",
+        "Ktext": "성헬레나 파운드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SIT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SIT')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SIT",
+        "Ktext": "톨라르"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SKK')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SKK')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SKK",
+        "Ktext": "크로나"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SLL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SLL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SLL",
+        "Ktext": "리온"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SOS')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SOS')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SOS",
+        "Ktext": "실링"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SRD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SRD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SRD",
+        "Ktext": "수리남 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SRG')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SRG')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SRG",
+        "Ktext": "수리남 길더"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SSP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SSP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SSP",
+        "Ktext": "파운드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('STD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('STD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "STD",
+        "Ktext": "두브라"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SVC')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SVC')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SVC",
+        "Ktext": "콜론"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SYP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SYP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SYP",
+        "Ktext": "시리안 파운드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SZL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('SZL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "SZL",
+        "Ktext": "릴랑게니"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('THB')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('THB')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "THB",
+        "Ktext": "바트"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TJR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TJR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "TJR",
+        "Ktext": "루블"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TJS')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TJS')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "TJS",
+        "Ktext": "소모니"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TMM')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TMM')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "TMM",
+        "Ktext": "마나트(구)"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TMT')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TMT')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "TMT",
+        "Ktext": "마나트"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TND')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TND')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "TND",
+        "Ktext": "디나르"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TOP')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TOP')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "TOP",
+        "Ktext": "파앙가"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TPE')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TPE')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "TPE",
+        "Ktext": "티모르 에스쿠도"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TRL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TRL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "TRL",
+        "Ktext": "리라(기존)"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TRY')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TRY')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "TRY",
+        "Ktext": "리라"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TTD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TTD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "TTD",
+        "Ktext": "T.+ T. 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TWD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TWD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "TWD",
+        "Ktext": "달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TZS')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('TZS')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "TZS",
+        "Ktext": "실링"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('UAH')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('UAH')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "UAH",
+        "Ktext": "그리브니아"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('UGX')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('UGX')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "UGX",
+        "Ktext": "실링"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('USD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('USD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "USD",
+        "Ktext": "US 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('USD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('USD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "USD",
+        "Ktext": "US 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('UYU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('UYU')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "UYU",
+        "Ktext": "페소"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('UZS')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('UZS')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "UZS",
+        "Ktext": "총계"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('VEB')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('VEB')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "VEB",
+        "Ktext": "볼리바(기존)"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('VEF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('VEF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "VEF",
+        "Ktext": "Bolivar"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('VND')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('VND')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "VND",
+        "Ktext": "동"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('VUV')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('VUV')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "VUV",
+        "Ktext": "바투"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('WST')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('WST')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "WST",
+        "Ktext": "탈라"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('XAF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('XAF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "XAF",
+        "Ktext": "CFA 프랑 BEAC"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('XCD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('XCD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "XCD",
+        "Ktext": "달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('XEU')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('XEU')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "XEU",
+        "Ktext": "E.C.U."
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('XOF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('XOF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "XOF",
+        "Ktext": "CFA 프랑 BCEAO"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('XPF')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('XPF')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "XPF",
+        "Ktext": "프랑"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('YER')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('YER')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "YER",
+        "Ktext": "예멘 리알"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('YUM')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('YUM')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "YUM",
+        "Ktext": "신 디나르"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZAR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZAR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ZAR",
+        "Ktext": "랜드"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZMK')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZMK')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ZMK",
+        "Ktext": "크와카"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZMW')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZMW')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ZMW",
+        "Ktext": "크와카"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZRN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZRN')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ZRN",
+        "Ktext": "자이레"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZWD')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZWD')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ZWD",
+        "Ktext": "짐바브웨 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZWL')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZWL')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ZWL",
+        "Ktext": "짐바브웨 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZWN')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZWN')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ZWN",
+        "Ktext": "짐바브웨 달러"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZWR')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihWaersSet('ZWR')",
+          "type": "ZVWGW_FI006_SRV.ZfihWaers"
+        },
+        "Waers": "ZWR",
+        "Ktext": "짐바브웨 달러"
+      }
+    ]
+  }
+}

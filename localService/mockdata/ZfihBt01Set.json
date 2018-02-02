@@ -1,0 +1,24 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt01Set('1')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt01Set('1')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt01"
+        },
+        "Bttype": "1",
+        "BttypeText": "국내출장"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt01Set('2')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt01Set('2')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt01"
+        },
+        "Bttype": "2",
+        "BttypeText": "해외출장"
+      }
+    ]
+  }
+}

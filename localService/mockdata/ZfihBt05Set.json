@@ -1,0 +1,84 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt05Set('1')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt05Set('1')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt05"
+        },
+        "Rtype": "1",
+        "RtypeText": "법인공용",
+        "Ptype": "1",
+        "PtypeText": "회사지급",
+        "Mwskz": "V5",
+        "MwskzText": "매입-법인카드(법인)"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt05Set('2')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt05Set('2')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt05"
+        },
+        "Rtype": "2",
+        "RtypeText": "법인지정",
+        "Ptype": "1",
+        "PtypeText": "회사지급",
+        "Mwskz": "V5",
+        "MwskzText": "매입-법인카드(법인)"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt05Set('3')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt05Set('3')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt05"
+        },
+        "Rtype": "3",
+        "RtypeText": "법인개인",
+        "Ptype": "2",
+        "PtypeText": "개인지급",
+        "Mwskz": "V5",
+        "MwskzText": "매입-법인카드(법인)"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt05Set('4')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt05Set('4')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt05"
+        },
+        "Rtype": "4",
+        "RtypeText": "현금영수증",
+        "Ptype": "2",
+        "PtypeText": "개인지급",
+        "Mwskz": "V7",
+        "MwskzText": "매입-현금영수증"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt05Set('5')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt05Set('5')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt05"
+        },
+        "Rtype": "5",
+        "RtypeText": "간이영수증",
+        "Ptype": "2",
+        "PtypeText": "개인지급",
+        "Mwskz": "V4",
+        "MwskzText": "매입-간이영수증"
+      },
+      {
+        "__metadata": {
+          "id": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt05Set('6')",
+          "uri": "http://sapap1dev.vieworks.com:50000/sap/opu/odata/sap/ZVWGW_FI006_SRV/ZfihBt05Set('6')",
+          "type": "ZVWGW_FI006_SRV.ZfihBt05"
+        },
+        "Rtype": "6",
+        "RtypeText": "증빙없음",
+        "Ptype": "2",
+        "PtypeText": "개인지급",
+        "Mwskz": "VZ",
+        "MwskzText": "증빙없음"
+      }
+    ]
+  }
+}

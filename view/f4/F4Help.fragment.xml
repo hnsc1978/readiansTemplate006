@@ -1,0 +1,17 @@
+<core:FragmentDefinition
+  xmlns="sap.m"
+  xmlns:core="sap.ui.core">
+  <SelectDialog
+    id="F4Help"
+    title="{i18n>F4Help_title}"
+    class="sapUiPopupWithPadding"
+    items="{help>/HelpSample}"
+    search="onF4Search"
+    liveChange="onF4Search"
+    confirm="onF4Select"
+    cancel="onF4Select">
+    <StandardListItem
+      title="{help>Title}"
+      info="{help>Info}"/>
+  </SelectDialog>
+</core:FragmentDefinition>
